@@ -1,0 +1,14 @@
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+main {
+  position: absolute;
+  
+}
+
+body {
+  height: 5000px; /* arbitrary long page */
+}
